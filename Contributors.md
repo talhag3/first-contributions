@@ -6810,3 +6810,5 @@ Ghazi Khan
 - [Karl Lim] (https://github.com/karlleh)
 - [Yash Sevada](https://github.com/YashSevada)
 - [Florian Bématol](https://github.com/florianbematol)
+- [Muhammad Talha Bilal](https://github.com/talhag3)
+- [Dattatraya Mule] (https://github.com/dattatrayam)
